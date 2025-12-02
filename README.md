@@ -38,7 +38,7 @@ Catatan: pastikan perangkat terhubung dan `adb` mendeteksinya.
 - `app/src/main/res/layout/` — layout XML untuk Activity dan Fragment.
 
 ## Catatan penting
-- `ListPasienFragment` memuat URL `http://103.195.19.140:5173/` pada `WebView` dan menjalankan JavaScript untuk hanya menampilkan elemen dengan id `list-pasien`.
+- `ListPasienFragment` memuat URL `http://xxx.xxx.xxx.xx:xxxx/` pada `WebView` dan menjalankan JavaScript untuk hanya menampilkan elemen dengan id `list-pasien`.
 - Jika URL atau struktur HTML berubah, fragment tersebut mungkin perlu penyesuaian.
 
 ## Kontribusi
