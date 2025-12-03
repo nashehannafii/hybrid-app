@@ -61,7 +61,7 @@ class ListPasienFragment : Fragment() {
             }
         }
 
-        webView.loadUrl("http://103.195.19.140:5173/")
+        webView.loadUrl("http://13.212.195.215:5173/")
 
         return view
     }
